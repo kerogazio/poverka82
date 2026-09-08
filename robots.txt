@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://20sippin20-dotcom.github.io/poverka82/sitemap.xml
+Sitemap: https://xn---82-5cdjbtzqc2bgfrrq8fb2q.xn--p1ai/sitemap.xml
